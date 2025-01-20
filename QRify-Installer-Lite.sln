@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "QRify-Installer-Lite", "QRify-Installer-Lite.vbproj", "{CE22E1B5-626C-4EC3-859D-0D9094F42B3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE22E1B5-626C-4EC3-859D-0D9094F42B3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE22E1B5-626C-4EC3-859D-0D9094F42B3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE22E1B5-626C-4EC3-859D-0D9094F42B3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE22E1B5-626C-4EC3-859D-0D9094F42B3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DDFD130-D2B3-427B-8DFC-0B52EEABA370}
+	EndGlobalSection
+EndGlobal
